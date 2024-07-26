@@ -1,7 +1,7 @@
-## About me: 
+### About me: 
 Data Scientist/ Data Analytic 
 
-## Education 
+### Education 
 Honours Bachelor of Data Science and Analytics 
 
 ##Prjects 
